@@ -4,6 +4,7 @@ date: 2022-12-31T00:00:00-05:00
 description: A brief summary of some of the highgights of my year
 tags:
   - 2022
+  - personal
 ---
 
 Another year has gone by, but it will not end (at least not on the east coast of the US) without me publishing my first blog post on this new site! In some ways, not much terribly exciting happened to me in 2022, but it was a year of a lot of introspection and growth for me, and I believe I come out of this year a stronger person than going in.

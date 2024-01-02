@@ -4,6 +4,7 @@ date: 2023-01-08T20:16:00-05:00
 description: Looking ahead at the year to come
 tags:
   - 2023
+  - personal
 ---
 
 I have always admired the kind of people who, at the beginning of every year, can write a detailed post of their goals and aspirations for the coming year (and then at the end of the year, write a similar post recapping the year against those goals.) I've also always thought I'm not the kind of person who can do that sort of thing.
