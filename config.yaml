@@ -1,0 +1,41 @@
+baseURL: 'https://example.org/'
+languageCode: 'en-us'
+title: 'A Place'
+theme: 'PaperMod'
+params:
+    disableSpecial1stPost: true
+    ShowRssButtonInSectionTermList: true
+    showRssButtonInSectionTermList: true
+    ShowReadingTime: true
+    ShowToc: true
+      #    homeInfoParams:
+      #        Title: Adil Sadik
+      #        Content: A page for my things
+      #
+      #    socialIcons: # optional
+      #        - name: "<platform>"
+      #          url: "<link>"
+      #        - name: "<platform 2>"
+      #          url: "<link2>"
+menu:
+  main:
+    - identifier: archive
+      name: archive
+      url: /archives
+      weight: 5
+    - identifier: rss
+      name: rss
+      url: /index.xml
+      weight: 10
+    - identifier: tags
+      name: tags
+      url: /tags/
+      weight: 20
+        #    - identifier: example
+        #      name: example.org
+        #      url: https://example.org
+        #      weight: 30
+    - identifier: contact
+      name: contact
+      url: /contact/
+      weight: 30
