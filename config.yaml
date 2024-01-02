@@ -1,6 +1,6 @@
-baseURL: 'https://strangepotato.dev/'
+baseURL: 'https://adils.page/'
 languageCode: 'en-us'
-title: 'Strange Potato'
+title: "Adil's Page"
 theme: 'PaperMod'
 params:
     disableSpecial1stPost: true
