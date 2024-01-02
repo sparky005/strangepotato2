@@ -8,6 +8,7 @@ params:
     showRssButtonInSectionTermList: true
     ShowReadingTime: true
     ShowToc: true
+    comments: true
       #    homeInfoParams:
       #        Title: Adil Sadik
       #        Content: A page for my things
