@@ -1,8 +1,9 @@
-baseURL: 'https://example.org/'
+baseURL: 'https://strangepotato.dev/'
 languageCode: 'en-us'
-title: 'A Place'
+title: 'Strange Potato'
 theme: 'PaperMod'
 params:
+    author: "adil"
     disableSpecial1stPost: true
     ShowRssButtonInSectionTermList: true
     showRssButtonInSectionTermList: true
