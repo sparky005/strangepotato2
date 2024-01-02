@@ -4,4 +4,7 @@ url: "/contact/"
 summary: contact
 ---
 
-Reach me at 555-5555
+Wanna chat? Get in touch!
+
+- [Mastodon](https://social.treehouse.systems/@sparky_005)
+- [Email](mailto:potato@strangepotato.com)
