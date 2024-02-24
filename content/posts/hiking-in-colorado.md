@@ -4,6 +4,7 @@ date: 2023-12-31T18:00:00-05:00
 tags:
   - travel
   - personal
+  - hiking
 ---
 
 Last week I spent two days hiking near Boulder, Colorado. It was sort of an impulse decision trip: I had a few days off that my wife didn't have off and I wanted to do something more than just sitting around the apartment all day waiting for her to get back. I knew there was a ton of hiking around Boulder so that's what I settled on.
